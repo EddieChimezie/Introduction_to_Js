@@ -1,4 +1,4 @@
-/*Basic arithmetic calculator without a frontend to perform basic operations*/
+/* Basic arithmetic calculator without a frontend to perform basic operations  */
 
 
 function addition(num1, num2){
